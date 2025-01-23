@@ -1,2 +1,2 @@
 # fasttrack_16paskaita
-bandomieji_projektai_fasttrack
+Bandomieji projektai fasttrack
